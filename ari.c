@@ -1,3 +1,7 @@
+#include<stdio.h>
+#include<ctype.h>
+#include<string.h>
+
 string ari(string);
 string ari(string s) {
 int characters=0;
