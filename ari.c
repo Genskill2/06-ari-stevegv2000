@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
+#include<cs50.h>
 #include<string.h>
 
 string ari(string);
